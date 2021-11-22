@@ -1,0 +1,24 @@
+----Git Get Started----
+git --version
+git config --global user.name "w3schools-test"
+git config --global user.email "test@w3schools.com"
+git init
+git status
+--short
+status flags
+    ?? - Untracked files
+    A - Files added to stage
+    M - Modified files
+    D - Deleted files
+
+----Git Staging Environment----
+files ready to be COMMITTED
+git add
+-A
+--all
+----Git Local Repository----
+git commit
+git log
+
+    git command -help -  See all the available options for the specific command
+    git help --all -  See all possible commands
